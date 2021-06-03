@@ -1,6 +1,7 @@
 # chat_app
 
-a chat app for everyone
+A Simple Chat Application where user can chat with another user.
+- [Get Apk file](https://drive.google.com/file/d/1LJ4RT-EiUZnmrm-mijXyfiHsRWMHcM2k/view?usp=sharing)
 
 ## Getting Started
 
