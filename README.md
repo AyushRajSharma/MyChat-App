@@ -5,13 +5,35 @@ A Simple Chat Application where user can chat with another user.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# ChatApp Flutter App
 
-A few resources to get you started if this is your first Flutter project:
+- A simple android application where user can chat with each other
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features:
+
+- User can **SignIn with Email and Password** or **login with Google** and for **New User** there is **SignUp with or SignUp with Google** .
+- On the main User will his chat List.
+- In the main screen there is a search button in case user want to search new user and chat with them.
+- User can see his profile.
+
+- Firebase User authentication
+- Google Authentication
+- Login Persistence
+- Real Time chating!
+
+
+
+## Screenshots
+
+<p align="center">
+ <img src="https://github.com/AyushRajSharma/mychatapp/blob/master/assets/images/Screenshot_20210717-020719.png" width="250">
+<img src="https://github.com/AyushRajSharma/mychatapp/blob/master/assets/images/Screenshot_20210717-020731.png" width="250">
+<img src="https://github.com/AyushRajSharma/mychatapp/blob/master/assets/images/Screenshot_20210717-023321.png" width="250">
+<img src="https://github.com/AyushRajSharma/mychatapp/blob/master/assets/images/Screenshot_20210717-021434.png" width="250">
+<img src="https://github.com/AyushRajSharma/mychatapp/blob/master/assets/images/Screenshot_20210717-023401.png" width="250">
+<img src="https://github.com/AyushRajSharma/mychatapp/blob/master/assets/images/Screenshot_20210717-023419.png" width="250">
+  </p>
+
+<p align="center"> If you 😍😍 liked it give it star!! 
+Thanks!</p>
