@@ -13,6 +13,7 @@ A Real time Chat Application where user can chat with another user.
 ## Features:
 
 - User can **SignIn with Email and Password** or **login with Google** and for **New User** there is **SignUp with or SignUp with Google** .
+- **Password Recovery** feature has been implemented, in case user forgot his password
 - On the main screen User will see his chat List.
 - Also in the main screen there is a **search button** in case user want to search new user and chat with them. they can simply click that search button and search users by username and start chat with him/her.
 - User can see his profile and modify modifiable data.
