@@ -1,23 +1,33 @@
-# chat_app
+# MyChat App
 
-A Simple Chat Application where user can chat with another user.
+A Real time Chat Application where user can chat with another user.
 - [Get Apk file](https://drive.google.com/file/d/1LJ4RT-EiUZnmrm-mijXyfiHsRWMHcM2k/view?usp=sharing)
 
 ## Getting Started
 
-# ChatApp Flutter App
+# MyChat Flutter App
 
-- A simple android application where user can chat with each other
+- A Real time android application where user can chat with each other
 
 
 ## Features:
 
 - User can **SignIn with Email and Password** or **login with Google** and for **New User** there is **SignUp with or SignUp with Google** .
-- On the main User will his chat List.
-- In the main screen there is a search button in case user want to search new user and chat with them.
-- User can see his profile.
+- On the main screen User will see his chat List.
+- Also in the main screen there is a **search button** in case user want to search new user and chat with them. they can simply click that search button and search users by username and start chat with him/her.
+- User can see his profile and modify modifiable data.
+- **login persistency** has been implemented, so that user need not sign in every time.
+- User can also **logout** from application.
 
-- Firebase User authentication
+## Future requirement 
+- call and video call features
+- status upload feature.
+- UI Modification.
+
+## Used Tech Stack-
+- Flutter
+- Dart
+- Firebase Email authentication
 - Google Authentication
 - Login Persistence
 - Real Time chating!
